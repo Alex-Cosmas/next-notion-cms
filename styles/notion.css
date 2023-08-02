@@ -386,3 +386,22 @@
 .notion-block-260baa77f1e1428b97fb14ac99c7c385 {
   display: none;
 }
+.notion-block-90ef0088e6784415a906c7157c7c83f8 {
+  text-align: center;
+}
+
+.notion-block-397ffb388f1041638fd56eed3ea58dad {
+  /* display: inline-flex;
+  width: 50%;
+  display: flex;
+  flex-direction: row; */
+
+  background-color: #d2eabc;
+  display: none;
+
+}
+
+.notion-block-c6b6614d95114004934e7ded18f45deb {
+  display: none;
+
+}
