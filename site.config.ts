@@ -58,12 +58,22 @@ export default siteConfig({
       pageId: '45b40d4ca4644e27a7b35b065724f306'
     },
     {
-      title: 'Work',
-      pageId: 'b7d5cb36affe4e93a0bdd84fd047f62c'
+      title: 'Resume',
+      pageId: '61342cdfe8414b8da14dfd7f9ed8dced'
+    },
+
+    {
+      title: 'Case Studies',
+      pageId: '073c9e7fbed04aafb435e8694c4df05d'
     },
     {
+      title: 'Articles',
+      pageId: 'bd601997107e4bb99d905eec64ba4f6b'
+    },
+
+    {
       title: 'Contact',
-      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+      pageId: 'd687df9abf7d4c258b984f199eb4a337'
     }
   ]
 })
