@@ -4,6 +4,7 @@ import * as types from '@/lib/types'
 
 import { PageHead } from './PageHead'
 import styles from './styles.module.css'
+import Link from 'next/link'
 
 export const Page404: React.FC<types.PageProps> = ({ site, pageId, error }) => {
   const title = site?.name || 'Notion Page Not Found'
@@ -32,6 +33,12 @@ export const Page404: React.FC<types.PageProps> = ({ site, pageId, error }) => {
             alt='404 Not Found'
             className={styles.errorImage}
           />
+
+          <div>
+            <h1>Back to
+              <Link href="/">Home</Link>
+            </h1>
+          </div>
         </main>
       </div>
     </>

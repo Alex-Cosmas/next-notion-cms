@@ -61,13 +61,12 @@ export default siteConfig({
       title: 'Resume',
       pageId: '61342cdfe8414b8da14dfd7f9ed8dced'
     },
-
     {
       title: 'Case Studies',
       pageId: '073c9e7fbed04aafb435e8694c4df05d'
     },
     {
-      title: 'Articles',
+      title: 'Notes',
       pageId: 'bd601997107e4bb99d905eec64ba4f6b'
     },
 
